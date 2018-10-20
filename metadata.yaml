@@ -1,5 +1,5 @@
 _repo: Northern-Lights-Volume-5_6190
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Canada, Northern -- Fiction'
 - !lcc 'PS'
 - !lcsh 'Short stories, Canadian'
+- GITenberg
 tableOfContents: The error of the day -- The whisperer -- As deep as the sea.
 title: Northern Lights, Volume 5.
 url: http://www.gutenberg.org/ebooks/6190
